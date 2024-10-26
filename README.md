@@ -1,5 +1,5 @@
 # CS-330 Journal
-![final project image](Screenshot%202024-10-25%20170540.png?raw=true "Final Project")
+![final project image](project-screenshot.png?width=400 "Final Project")
 
 1. **How do I approach designing software?**
    - **What new design skills has your work on the project helped you to craft?** My recent OpenGL/C++ project helped me develop **3D scene organization** and **efficient memory management**. I learned how to structure classes in a way that facilitated **clean abstraction layers** between rendering logic and object management. One of the biggest skills I crafted was **shader programming**, which introduced me to new concepts like **vertex and fragment shaders** and how they interact with the pipeline. Additionally, I became adept at **problem-solving for graphical performance issues**, such as optimizing frame rates on mobile platforms.
